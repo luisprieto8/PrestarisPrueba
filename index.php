@@ -1,6 +1,5 @@
 <?php
 	echo "Hello World";
 	echo "<br/>";
-	echo "Se puede utilizar para almacenar cï¿½digo";
-	echo "si se puede?";
+	echo "Se puede utilizar para almacenar código";
 ?>
